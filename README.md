@@ -35,8 +35,6 @@ The goal is to understand both **algorithm efficiency** and **data structure beh
 ### Step 1: Download or Clone Repository
 
 ```bash
-git clone <your-repo-link>
-cd MSCS532_Assignment1
 
 Step 2: Run Selection Algorithms (Part 1)
 python selection_algorithms.py
